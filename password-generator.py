@@ -97,6 +97,6 @@ if st.session_state.user_password:
         st.write(f"Generated Password: `{new_password}`")  # Display the generated password
 
         st.write("--------------------------------------------------------------------")
-        st.write("Made by 💞[Tayyaba Ajaz]")
+        
 
 
